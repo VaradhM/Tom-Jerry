@@ -31,7 +31,7 @@ function setup() {
   
   bg =    createSprite(0,0,0,0);
   bg.addImage(bgImage);
-  bg.scale = 2.6;
+  bg.scale = 2.9;
   
   tom = createSprite(1075, 400, 3, 2);
   tom.addImage(tomImage); 
